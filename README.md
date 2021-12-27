@@ -8,3 +8,5 @@
 ## Demo data
  This is a test data for teting the branches.
  
+# Horoscope
+ git checkout main
